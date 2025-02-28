@@ -18,6 +18,8 @@ Database servers provide database services to other computers or clients. They s
 
 A network is a connection of computers, servers, and other devices. This allows them to communicate and store data.
 
+
+
 **Types of Networks**
 
 **LANs(Local Area Network)**
@@ -47,6 +49,8 @@ Routers decide the best path for data to travel between networks.
 **Firewalls**
 
 Firewalls have rules, like a set of instructions. Some rules, Ingress, decide what can enter. Whereas, some rules, Egress, decide what can leave. There’s also a feature called “Stateful Inspection” that watches what is happening. Firewalls are like guards monitoring the entrance and exit of your network. Firewalls also make sure different parts can communicate with each other. 
+
+
 
 **The OSI Model**
 
